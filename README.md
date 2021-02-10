@@ -41,6 +41,9 @@ Contains english and russian tokenizers for 10k/30k/100k dataset
 ### Corpus
 Original non-cleaned corpus (see above)
 
+## Notebooks
+Notebooks folder contains folders with final model (Model 4, see above) and older models. In each folder there are notebooks with training and evaluation of model
+
 ## Data preparation
 1) Load corpus and split it to pairs
 2) Clean punctuation and convert sentences to lowercase
